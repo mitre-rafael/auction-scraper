@@ -1,3 +1,12 @@
 [submodule "AS-SCRAPER"]
 	path = AS-SCRAPER
 	url = https://github.com/mitre-rafael/AS-SCRAPER
+	
+[submodule "AS-API"]
+	path = AS-API
+	url = https://github.com/mitre-rafael/AS-API
+	
+[submodule "AS-FRONT"]
+	path = AS-FRONT
+	url = https://github.com/mitre-rafael/AS-FRONT
+	
