@@ -1,0 +1,3 @@
+[submodule "AS-SCRAPER"]
+	path = AS-SCRAPER
+	url = https://github.com/mitre-rafael/AS-SCRAPER
